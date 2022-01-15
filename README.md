@@ -1,0 +1,4 @@
+- 👋 Olá eu me chamo Matheus mas sou conhecido como Sp0ck#0805.
+- 👀 Tenho 18 anos e sou programador Junior, já participei de vários projetos e o maior deles é o Sharow, meu BOT verificado do discord, desenvolvido totalmente em JavaScript e Node.js.
+- 🌱 Já fiz diversos cursos presenciais e EAD.
+- 📫 Você pode entrar em contato comigo através do meu discord Sp0ck#0805.
